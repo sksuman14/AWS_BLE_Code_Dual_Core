@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "network_Core",
+			"path": "../../network_Core"
+		}
+	],
+	"settings": {}
+}
